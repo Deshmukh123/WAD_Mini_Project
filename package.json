@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.11.16",
+    "@types/history": "^5.0.0",
+    "axios": "^1.4.0",
+    "babel-eslint": "^10.1.0",
+    "googleapis": "^118.0.0",
+    "nodemon": "^2.0.22",
+    "react-router-dom": "^6.11.1",
+    "yarn": "^1.22.19"
+  }
+}
